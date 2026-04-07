@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -107,7 +106,7 @@ Each lab contains:
 
 | # | Lab | Status |
 |---|-----|--------|
-| 01 | 🐚 Reverse Shell (Netcat) | ⏳ Pending |
+| 01 | [🐚 Reverse Shell (Netcat)](#-lab-01--reverse-shell-attack) | ✅ Completed |
 | 02 | 💉 Web Exploitation – SQL Injection | ⏳ Pending |
 | 03 | 🎭 Cross-Site Scripting (XSS) | ⏳ Pending |
 | 04 | 📂 Directory Bruteforce (Gobuster) | ⏳ Pending |
@@ -153,9 +152,9 @@ Each lab contains:
 
 ```
 Total Labs Planned   : 16
-Labs Completed       : 0
+Labs Completed       : 1
 Labs In Progress     : 0
-Completion           : [░░░░░░░░░░░░░░░░░░░░] 0%
+Completion           : [█░░░░░░░░░░░░░░░░░░░] 6%
 ```
 
 > Progress bar updates as labs are completed. Follow to stay notified.
