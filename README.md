@@ -29,7 +29,7 @@
 
 ## `> whoami`
 
-This repository documents my hands-on journey through offensive security — practicing real-world attack techniques, exploitation methods, and system compromise simulations in a **controlled lab environment**.
+This repository documents my hands-on journey through offensive security, practicing real-world attack techniques, exploitation methods, and system compromise simulations in a **controlled lab environment**.
 
 Each lab is a battle fought, a skill earned.
 
