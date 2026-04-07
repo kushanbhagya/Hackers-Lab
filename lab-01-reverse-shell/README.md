@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-In this lab, a **reverse shell attack** was simulated to gain remote access to a target machine. Unlike a traditional bind shell, a reverse shell causes the **target system to initiate the connection back** to the attacker — effectively bypassing inbound firewall restrictions.
+In this lab, a **reverse shell attack** was simulated to gain remote access to a target machine. Unlike a traditional bind shell, a reverse shell causes the **target system to initiate the connection back** to the attacker, effectively bypassing inbound firewall restrictions.
 
 ---
 
